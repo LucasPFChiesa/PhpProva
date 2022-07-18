@@ -50,7 +50,7 @@ return [
         'namespace' => 'App',
         'encoding' => env('APP_ENCODING', 'UTF-8'),
         'defaultLocale' => env('APP_DEFAULT_LOCALE', 'pt_BR'),
-        'defaultTimezone' => env('APP_DEFAULT_TIMEZONE', 'America/Rio_Grande_Do_Sul'),
+        'defaultTimezone' => env('APP_DEFAULT_TIMEZONE', 'America/Sao_Paulo'),
         'base' => false,
         'dir' => 'src',
         'webroot' => 'webroot',
